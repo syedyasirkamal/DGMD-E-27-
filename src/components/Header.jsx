@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <header style={headerStyle} className={styles.header}>
             <h1>DGMD E-27 Final Project</h1>
-            <h1>ToDos App</h1>
+            <h2>ToDos App</h2>
             <p>Items will persist in the browser local storage</p>
         </header>
     );
